@@ -4,6 +4,6 @@ Name: [Caelan Coyne]
 
 Major / program: Data Science & Analytics
 
-Favorite dataset or industry interest: 
+Favorite dataset or industry interest: Healthcare Charting / Research 
 
 One reason I am studying analytics:
