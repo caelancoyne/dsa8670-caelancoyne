@@ -6,4 +6,4 @@ Major / program: Data Science & Analytics
 
 Favorite dataset or industry interest: Healthcare Charting / Research 
 
-One reason I am studying analytics:
+One reason I am studying analytics: Drawing insights out of otherwise meaningless data is a lot more fun/rewarding than a lot of other career paths out there. 
