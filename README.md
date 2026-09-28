@@ -73,3 +73,9 @@ By the end of Week 5, you should be able to:
 ## License
 
 This repository uses the MIT License (see `LICENSE`).
+
+---
+
+## Week 5 Reading Reflections
+
+I've been anxiously awaiting the point in my life where I'd need to learn how to be mildly fluent in GitHub, but following along it does seem quite intuitive. I'm certain that a number of questions about version control will begin to crop up as we move forward, but my biggest right now is on pull requests and the logic behind how 'diffs' are merged with the main branch. The opportunity to discuss with collaborators which version of some largercode should be merged seems incredibly useful, but I can't imagine the process is democratic. Deciding which users recieve what I can only guess are 'admin' permissions seems like both a safeguard and a bottleneck when it comes to large projects, but I'm interested to see how that process operates in practice. Likewise, the reading alludes to 'Kanboard' when discussing projects, which if I had to guess will likely help us as we move forward. Defining what consitutes a deliverable version of some code looks like within an analytics lifecycle seems to me like it will play a larger role than I initially anticipated. 
